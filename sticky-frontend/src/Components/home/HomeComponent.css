@@ -1,0 +1,11 @@
+.image {
+    opacity: 45%;
+}
+
+.image-text {
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    font-size: 120px;
+    color: darkblue;
+}
